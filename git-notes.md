@@ -20,10 +20,18 @@ Both can be combined by using:
 ```console
 $git checkout -b "branchname"
 ```
-11. Yes, we can add a new remote by using $git remote add remotename [remote URL]
+11. Yes, we can add a new remote by using:
+```console
+$git remote add remotename [remote URL]
+```
 12. Git command for status of changesand commit history is:
 ```console
- $git log
+$git log
 ```
-13. ls-list directories, cd- change directory, mkdir- make new directory
-14. using $git pull origin main
+13. * ```ls``` to list directories
+    * ```cd``` to change directory 
+    * ```mkdir``` to make new directory
+14. Using: 
+```console
+$git pull origin main
+```
